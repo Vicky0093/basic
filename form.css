@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image:url(images/onepiece.png)
+    
+}
+.form{
+    background-color: silver;
+    height: 50vh;
+    width: 50vh;
+    text-align: center;
+    box-shadow: 0px 4px 8px black;
+
+}
+.inputdata{
+    margin-bottom: 15px;
+
+}
+.inputdata label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.inputdata input[type="text"]{
+    padding: 5px;
+    width: 30vh;
+}
+.btn button[type="submit"]{
+    width: 30vh;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    background-color: rgb(117, 117, 248);
+    border-radius: 50px;
+}
+.btn button[type="submit"]:hover{
+    background-color: lightblue;
+}

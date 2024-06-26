@@ -1,0 +1,26 @@
+body{
+    background-image: url("images/roronoa-zoro-one-piece-thumb-364x205.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(10, 181, 13);
+    font-style: italic;
+    font-display: white;
+    text-decoration: white;
+    text-decoration-color: aliceblue;
+    text-emphasis-color: white;
+    -moz-text-decoration-color: aqua;
+    
+
+}
+p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+
+}

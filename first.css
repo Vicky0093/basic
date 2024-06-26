@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(1, 12, 14);
+}
+.out{
+    background-color: sandybrown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 40vh;
+    height: 40vh;
+    border: 5px solid black;
+    margin-top: 30vh;
+    margin-left: 5vh;
+    
+    
+
+}
+
+.in{
+    padding: 25px;
+}
+
+.up{
+    background-color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 40vh;
+    height: 40vh;
+    border: 5px solid black;
+    margin-left: 80vh;
+    margin-top: -41vh;
+    
+}
+
+.down{
+    padding: 19px;
+    
+}
+
+.above{
+    background-color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 40vh;
+    height: 40vh;
+    border: 5px solid black;
+    margin-left: 160vh;
+    margin-top: -41vh;
+    
+    
+}
+
+.below{
+    padding: 25px;
+    
+}

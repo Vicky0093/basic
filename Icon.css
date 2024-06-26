@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    
+}
+.icon{
+    width: 50px;
+    height: 100%;
+    background-color: rgb(112, 179, 238);
+    overflow: auto;
+    border: 3% solid black;
+    
+    
+    
+}
+.icon a{
+    float: left;
+    width:20% ;
+    font-size: 35px;
+    color:black;
+    padding: 10px;
+}
+.icon a:hover{
+    background-color: rgb(242, 246, 246);
+}
+.menu{
+    width: 40;
+    background-color: rgb(163, 137, 228);
+    overflow: auto;
+    border: 3% solid black;
+}
+.menu a{
+    float: left;
+    width:20% ;
+    font-size: 35px;
+    color:black;
+    padding: 10px;
+
+}
